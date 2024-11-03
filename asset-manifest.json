@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dimapyatin/Form.git/static/css/main.40f5b4f1.css",
+    "main.js": "/Dimapyatin/Form.git/static/js/main.cf7d199f.js",
+    "static/js/453.ed3810f9.chunk.js": "/Dimapyatin/Form.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Dimapyatin/Form.git/index.html",
+    "main.40f5b4f1.css.map": "/Dimapyatin/Form.git/static/css/main.40f5b4f1.css.map",
+    "main.cf7d199f.js.map": "/Dimapyatin/Form.git/static/js/main.cf7d199f.js.map",
+    "453.ed3810f9.chunk.js.map": "/Dimapyatin/Form.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40f5b4f1.css",
+    "static/js/main.cf7d199f.js"
+  ]
+}
